@@ -1,9 +1,9 @@
-## Adventure Game
+# Adventure Game
 
-# About
+## About
 I made this game as the final project for my intro to C++ class. Basically, it's a little text-based dungeon runner, and you want to clear the dungeon and get to the end. 
 
-# Setup
+## Setup
 1. Download the adventure_game.cpp file to your machine
 2. Open the command prompt from the download location
 3. Compile the file by entering `g++ -std=c++17 -Wall Adventure_Game.cpp`
