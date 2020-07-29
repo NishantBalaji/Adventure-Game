@@ -6,8 +6,6 @@ I made this game as the final project for my intro to C++ class. Basically, it's
 # Setup
 1. Download the adventure_game.cpp file to your machine
 2. Open the command prompt from the download location
-3. Compile the file by entering:
-   `g++ -std=c++17 -Wall Adventure_Game.cpp`
-4. Then run the out file with:
-   `./a.out `
+3. Compile the file by entering `g++ -std=c++17 -Wall Adventure_Game.cpp`
+4. Then run the out file with `./a.out `
 5. Play the game and have fun!!!
