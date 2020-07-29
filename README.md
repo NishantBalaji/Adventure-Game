@@ -1,7 +1,7 @@
 # Adventure Game
 
 ## About
-I made this game as the final project for my intro to C++ class. Basically, it's a little text-based dungeon runner, and you want to clear the dungeon and get to the end. 
+I made this game as the final project for my [intro to C++ class](https://github.com/NishantBalaji/CISP-360). Basically, it's a little text-based dungeon runner, and you want to clear the dungeon and get to the end. 
 
 ## Setup
 1. Download the adventure_game.cpp file to your machine
